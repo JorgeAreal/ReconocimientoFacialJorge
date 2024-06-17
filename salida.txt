@@ -1,0 +1,4 @@
+Encontrado en la C:\Users\Jorge Areal Alberich\Documents\NetBeansProjects\ReconocimientoFacialJorge\python\programa\adrian.jpg:  Adrian
+Encontrado en la C:\Users\Jorge Areal Alberich\Documents\NetBeansProjects\ReconocimientoFacialJorge\python\programa\awy.jpg:  Jorge,Jorge,Adrian
+Encontrado en la C:\Users\Jorge Areal Alberich\Documents\NetBeansProjects\ReconocimientoFacialJorge\python\programa\awy2.png:  Jorge,Adrian
+Encontrado en la C:\Users\Jorge Areal Alberich\Documents\NetBeansProjects\ReconocimientoFacialJorge\python\programa\jorge.jpg:  Jorge

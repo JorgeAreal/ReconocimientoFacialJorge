@@ -1,0 +1,17 @@
+EJECUTAR almacena.py:
+python almacena.py "Jorge" "C:\Users\Jorge Areal Alberich\Documents\NetBeansProjects\ReconocimientoFacialJorge\python\programa\jorge.jpg"
+
+EJECUTAR busca.py: muestra de forma grafica las fotos
+para comprobar una imagen: python busca.py -i "jorge.jpg"
+para comprobar un directorio: python busca.py -d "C:\Users\Jorge Areal Alberich\Documents\NetBeansProjects\ReconocimientoFacialJorge\python\programa"
+persona que se quiera buscar: 
+
+EJECUTAR busca2.py: devuelve por consola el nombre de la foto y el nombre de la persona encontrada
+
+
+
+RECONOCER TODO LO QUE PUEDA DE UN DIRECTORIO: python busca.py -d "C:\Users\Jorge Areal Alberich\Documents\NetBeansProjects\ReconocimientoFacialJorge\python\programa". OKEY
+RECONOCER TODO LO QUE PUEDA DE UNA IMAGEN: python busca.py -i "C:\Users\Jorge Areal Alberich\Documents\NetBeansProjects\ReconocimientoFacialJorge\python\programa\awy.jpg". OKEY
+
+RECONOCER MEDIANTE IMAGEN A UNA PERSONA EN CONCRETO: python busca.py -i "awy.jpg" -p "Jorge"
+RECONOCER MEDIANTE URL UNA PERSONA EN CONCRETO: python busca.py -d "C:\Users\Jorge Areal Alberich\Documents\NetBeansProjects\ReconocimientoFacialJorge\python\programa" -p "Jorge"
